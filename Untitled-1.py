@@ -15,3 +15,4 @@ mg1=mg*(30/3)
 mg2=mg*(30/5)
 mgt=mg1+mg2
 print(f"en un mes producen {mgt} huevos mensuales")
+print("hola")
