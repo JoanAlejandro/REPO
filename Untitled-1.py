@@ -6,3 +6,4 @@ print(a)
 b=9*9
 print(b)
 print("soy yo")
+print ("BUENAS0")
